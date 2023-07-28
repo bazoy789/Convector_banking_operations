@@ -1,4 +1,4 @@
-# Test Course Work 3
+# Сonvector of banking operations
 
 * read_file - чтение файла
 * executed - все успешные операции
