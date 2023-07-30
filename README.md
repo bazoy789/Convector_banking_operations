@@ -1,5 +1,8 @@
 # Сonvector of banking operations
 
+## Description
+- Конектор банковских операций
+
 * read_file - чтение файла
 * executed - все успешные операции
 * sorted_date - сортировка по дате убывание в количестве 5
