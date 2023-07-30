@@ -6,3 +6,6 @@
 
 ### Technologies:
 - Python
+
+### Run
+convector.py для запуска программ
