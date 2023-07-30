@@ -1,7 +1,7 @@
 # Сonvector of banking operations
 
-## Description
+### Description:
 - Конектор банковских операций
 
-### Technologies
+### Technologies:
 - Python
