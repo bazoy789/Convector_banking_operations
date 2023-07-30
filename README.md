@@ -3,5 +3,5 @@
 ## Description
 - Конектор банковских операций
 
-### Стек
+### Technologies
 - Python
