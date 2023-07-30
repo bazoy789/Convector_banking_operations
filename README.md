@@ -1,4 +1,4 @@
-# Сonvector of banking operations
+# Сonvector of banking operations (Конектор банковских операций)
 
 ### Description:
 Конектор банковских операций, для отражения скрытых данных в прилодении клиента.
